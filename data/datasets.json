@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "datasets": [
+    {
+      "id": "builtin",
+      "name": "内置数据（data/raw）",
+      "source": "local",
+      "files": [
+        {
+          "path": "project\\项目\\基于时空数据的共享单车需求预测与调度系统\\data\\raw\\bike_orders_20210401_20210531_bydays.csv",
+          "size": 12186667027,
+          "mtime": 1786709726
+        },
+        {
+          "path": "project\\项目\\基于时空数据的共享单车需求预测与调度系统\\data\\raw\\bike_orders_20210601_20210731_bydays.csv",
+          "size": 11063925426,
+          "mtime": 1786954023
+        }
+      ],
+      "added_at": "2026-10-21 14:30",
+      "enabled": true,
+      "note": "升级前已在 data/raw 的数据，自动登记"
+    }
+  ]
+}
